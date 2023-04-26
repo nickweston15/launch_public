@@ -1,0 +1,29 @@
+/* 
+Identify the Constructors for each of the following methods and classify each method 
+as either a "Static" or a "Protoype" method:
+
+substring
+  String.prototype.substring()
+  prototype
+
+create
+  Object.create()
+  static
+
+fromCharCode
+  String.fromCharCode()
+  static
+
+slice
+  Array.prototype.slice()
+  String.prototype.slice()
+  prototype
+
+toString
+  Array.prototype.toString()
+  Object.prototype.toString()
+  Number.prototype.toString()
+  String.prototype.toString()
+  prototype
+  
+*/

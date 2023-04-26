@@ -1,0 +1,18 @@
+/*
+
+Which of the following names satisfy the style guidelines for constants used to
+represent magic numbers?
+
+A magic number is any unchanging value that could be considered important somehow
+to the functionality of the program. They always use SCREAMING_SNAKE_CASE.
+
+index - no 
+CatName - no
+snake_case - no
+lazyDog - no
+quick_Fox - no
+1stCharacter - no
+operand2 - no 
+BIG_NUMBER - yes
+
+*/

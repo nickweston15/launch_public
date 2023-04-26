@@ -1,0 +1,15 @@
+/*
+
+Which of the following names don't satify the style guidelines for naming variables,
+functions, or constants?
+
+index - satisfies 
+CatName - satisfies
+snake_case - no, contains underscores with wrong capitalization
+lazyDog - satisfies
+quick_Fox - no, contains underscores with wrong capitalization
+1stCharacter - no, can't begin with a number ever
+operand2 - satisfies
+BIG_NUMBER - satisfies
+
+*/

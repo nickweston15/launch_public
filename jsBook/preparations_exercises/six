@@ -1,0 +1,15 @@
+/*
+
+Which of the following names satisfy the style guidelines for variable names?
+For the purposes of this question, constants are not variables.
+
+index - yes
+CatName - no, first letter shouldn't be capitalized
+snake_case - no, remove the _ and second word should be capitalized
+lazyDog - yes 
+quick_Fox - no, remove the _
+1stCharacter - no, can't start with a number
+operand2 - yes
+BIG_NUMBER - no, this is screaming snake case
+
+*/
